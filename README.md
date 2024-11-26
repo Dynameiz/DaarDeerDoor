@@ -1,6 +1,6 @@
-# tugas_aol
+# Daa'r Dee'r Door 
 
-A new Flutter project.
+This is an application for master control of our Internet of Things Development and Architecture Course Project which will be used to monitor our smart door project.
 
 ## Getting Started
 
